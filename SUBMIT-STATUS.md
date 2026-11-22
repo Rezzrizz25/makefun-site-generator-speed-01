@@ -1,6 +1,11 @@
 # Submit status — site-generator-speed-01-run-20261122
 
-**Status: PREPARED — kit check passes, grade-local 3/3, ready to submit.**
+**Status: SUBMITTED ✅ — passed every validity check, grading under way.**
+- **Submission:** `01a204fc-fcf9-731e-835f-3ae2eb9383e0` (HTTP 202, server 2026-11-22T20:40:18Z), entry named "Deft Foundry" by the site
+- **Claim code:** `AF-7YTKV-2BTPC-N3K0T-VHXH3` (keep private)
+- **Submitted commit:** `f9e07e172e748dbd8cb61dabc588f2cbfe5f70ee` (GitHub HEAD verified)
+- **Status verified 2026-11-23 ~04:45 +08:** submitted, outcome not decided yet — ALL validity checks pass (account_wallet, competition_open, quota, form, entry_signature, repo_owner, repo_public, license_osi, repo_created_after_open, commit_in_repo, duplicate_snapshot, entry_size, committed_secret, security_audit, repo_readme, repo_about, thinking_wellformed, thinking_in_window, thinking_committed, thinking_turns, thinking_priced, thinking_revised, transcripts_run_record, thinking_own_work). Skips: sponsor_self_entry, thinking_reproduces, thinking_on_task, thinking_fresh (all expected). Grading on the dev phase under way; result due 2026-12-09T20:00:00Z.
+- **Escrow:** 2FbZw6xA6yd81AzBM3Dm5rogpH7muMyu2ALgzwrcrzVE (open, mainnet)
 
 - Bounty: "Build a static site faster, 22 November 2026" (`site-generator-speed-01-run-20261122`)
 - Prize: $100 total (10 places × $10 USDC)
